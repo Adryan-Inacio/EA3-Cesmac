@@ -47,5 +47,5 @@ python manage.py runserver
 
 * **Retorno direto em JSON:** `http://127.0.0.1:8000/usuarios/?format=json`
 * **Listar / Cadastrar usuários:** `GET` e `POST` em `http://127.0.0.1:8000/usuarios/`
-* **Consultar / Atualizar / Remover usuário:** `GET`, `PUT` e `DELETE` em `http://127.0.0.1:8000/usuarios/{id}/`
+* **Consultar / Atualizar / Remover usuário:** `GET`, `PUT` e `DELETE` em `http://127.0.0.1:8000/usuarios/id/`
 * **Painel Administrativo:** `http://127.0.0.1:8000/admin/`
